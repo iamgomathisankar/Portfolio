@@ -216,5 +216,9 @@ svg
 
 .fs-2 {
     font-size: calc(2.325rem + .9vw)!important;
+} 
+.ho:hover{ 
+    background-color: #CDF0EA !important;
+
 }
 
